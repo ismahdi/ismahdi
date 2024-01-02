@@ -1,6 +1,26 @@
 <h1 align="center">Hi 👋, I'm Mahdi Aghamohammadzadeh</h1>
 <h3 align="center">A Laravel Backend developer from Iran</h3>
 
+<svg xmlns="http://www.w3.org/2000/svg" width="100.2" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+    <mask id="a">
+        <rect width="100.2" height="20" rx="3" fill="#fff"/>
+    </mask>
+    <g mask="url(#a)">
+        <rect width="81.2" height="20" fill="#555"/>
+        <rect x="81.2" width="19" height="20" fill="#007ec6"/>
+        <rect width="100.2" height="20" fill="url(#b)"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+        <text x="41.6" y="15" fill="#010101" fill-opacity=".3">Profile views</text>
+        <text x="41.6" y="14">Profile views</text>
+        <text x="89.7" y="15" fill="#010101" fill-opacity=".3">261</text>
+        <text x="89.7" y="14">261</text>
+    </g>
+</svg>
 
 - 🌱 I’m currently learning **Laravel**
 
