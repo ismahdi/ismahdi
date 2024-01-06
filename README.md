@@ -20,4 +20,3 @@
 
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ismahdi&theme=github-dark-blue&border_radius=5&exclude_days=Sun%2CFri" alt="GitHub Streak" /></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismahdi&layout=compact)
