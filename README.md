@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahdi Aghamohammadzadeh</h1>
-<h3 align="center">A Laravel Backend developer from Iran</h3>
+<h3 align="center">A Laravel Backend Developer From Iran</h3>
 
 <img src="https://komarev.com/ghpvc/?username=m&style=flat-square&color=blue" alt=""/>
 
