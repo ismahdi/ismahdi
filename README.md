@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi Aghamohammadzadeh</h1>
 <h3 align="center">A Laravel Backend Developer From Iran</h3>
 
-<img src="https://komarev.com/ghpvc/?username=m&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=ismahdi&style=flat-square&color=blue" alt=""/>
 
 - 🌱 I’m currently learning **Laravel**
 
